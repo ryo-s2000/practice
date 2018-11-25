@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55fb6e0e-8cd3-4102-bad8-102914412bfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/edit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby/cherry/rgb/lib/rgb.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby/cherry/rgb/test/rgb_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="55fb6e0e-8cd3-4102-bad8-102914412bfa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +73,7 @@
     <session id="1443205101">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="2" />
@@ -100,14 +95,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rb" value="4011" />
+          <entry key="rb" value="4070" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Ruby" value="4011" />
+          <entry key="Ruby" value="4070" />
         </counts>
       </usages-collector>
     </session>
@@ -117,8 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ruby/cherry/block.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="54" column="2" lean-forward="true" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+            <state relative-caret-position="435">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -324,16 +319,15 @@
       <workItem from="1542424612220" duration="12000" />
       <workItem from="1542430828715" duration="720000" />
       <workItem from="1542968762735" duration="6537000" />
-      <workItem from="1543105317941" duration="6129000" />
+      <workItem from="1543105317941" duration="6395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19362000" />
+    <option name="totallyTimeSpent" value="19628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2789988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -348,7 +342,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4969475" visible="true" weight="0.3115424" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4969475" visible="true" weight="0.32686415" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50305253" side_tool="true" weight="0.27477017" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -562,8 +556,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ruby/cherry/block.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="54" column="2" lean-forward="true" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+        <state relative-caret-position="435">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55fb6e0e-8cd3-4102-bad8-102914412bfa" name="Default Changelist" comment="" />
+    <list default="true" id="55fb6e0e-8cd3-4102-bad8-102914412bfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/file.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/frozen.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/lib/bank.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/lib/convert_hash_syntax.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/lib/deep_freezable.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/lib/gate.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/lib/team.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/lib/ticket.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/make_class.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/math.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/module.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/self_module.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/spear.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/status_module.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/teisuu.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/test/convert_hash_syntax_text.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/test/convert_length_test.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/test/deep_freezable_test.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruby/cherry/test/gate_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/cherry/block.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ruby/cherry/block.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,52 +95,57 @@
     <session id="1443205101">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="rb" value="18" />
-          <entry key="txt" value="4" />
+          <entry key="docker" value="1" />
+          <entry key="rb" value="54" />
+          <entry key="scss" value="1" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Ruby" value="18" />
+          <entry key="Dockerfile" value="1" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Ruby" value="54" />
+          <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rb" value="4070" />
+          <entry key="docker" value="7" />
+          <entry key="rb" value="13564" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Dockerfile" value="7" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Ruby" value="4070" />
+          <entry key="Ruby" value="13564" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ruby/cherry/block.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,6 +178,31 @@
         <option value="$PROJECT_DIR$/edit.txt" />
         <option value="$PROJECT_DIR$/ruby/cherry/edit_file.rb" />
         <option value="$PROJECT_DIR$/ruby/cherry/block.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/lib/convert_length.rb" />
+        <option value="$PROJECT_DIR$/ruby/algorithm/file.docker" />
+        <option value="$PROJECT_DIR$/ruby/cherry/hash.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/test/convert_length_test.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/seikihyougen.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/test/convert_hash_syntax_text.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/lib/convert_hash_syntax.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/regular.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/make_class.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/test/gete_test.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/lib/ticket.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/lib/gate.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/test/gate_test.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/file.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/spear.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/teisuu.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/module.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/frozen.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/lib/team.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/lib/bank.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/test/deep_freezable_test.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/lib/deep_freezable.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/self_module.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/math.rb" />
+        <option value="$PROJECT_DIR$/ruby/cherry/status_module.rb" />
       </list>
     </option>
   </component>
@@ -187,6 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,18 +258,28 @@
               <item name="ruby" type="462c0819:PsiDirectoryNode" />
               <item name="cherry" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="の設定画面の「Appearance &amp; Behavior ＞ Menus and Toolbars」から、アクションを設定できる！ 特に必要なさがあるけど、アイコンも自分で設定できるっぽい。  f:id:syobochim:20180416015122p:plain  「Appearance &amp; Behavior ＞ Menus and Toolbars ＞ Touch Bar」の「Refresh touch bar」ボタンを押すと、設定がtouch barに反映される！  f:id:syobochim:20180416015225p:plain  最高…。  syobochim 228日前  Add Starat_yasuoneputtkunoneputtkunoneputtkunnesheep5masulogmasulogshepherdMasterkikuchykikuchyWindnapmasayuki_katobellu         関連記事  IntelliJ IDEAでMacBook Proのtouch barが使えるようになって最高 #intellij 2018-05-26 IntelliJ IDEAでMacBook Proのtouch barが使えるようになって最高 #i… もともと、この記事を書いていましたが、 なんと本家でtouch ba… 2015-12-12 SIerといえばソースコードの自動生成だ！テーブルとEntityクラスを自動生成するサムシン(Pos… これはPostgreSQL Advent Calendar 2015 - Qiitaの記事です。 …  CentOSにGitBucketをたててみた 2015-05-31 CentOSにGitBucketをたててみた 会社でGit使いたいって言ったらサラッとOKが出た。 ただ、GitBu… 2015-02-11 IntelliJ、データモデルの図がサクッとみれて最高である #jbugj すでに開発環境のデータベースにデータが入っているときに、Int…  Intellij IDEAのLive TemplateにJUnitで使う、あれこれを追加した！ 2014-04-23 Intellij IDEAのLive TemplateにJUnitで使う、あれこれを追加した！ Live TemplateにJUnitで使うあれこれを追加しました！ できたこ… スポンサーリンク    コメントを書く id:ashikapratt  I enjoy reading a post that can make people think. Also, thank you for allowing for me to comment! http://ashikapratt.co.in/  220日前  Add Star   JOHN  Prop Emperos is an inimitable destination for all your exquisite property needs and requirements.  http://www.propemperos.com/  225日前  Add Star   Delhi escorts   we take care privacy about them. And we’ll not allow you to consider the pictures of the escort women. They are young ladies inDelhi and can not serve all the peoples who approach them for high profile call female service in Delhi.  http://delhidreamdivas.in/  226日前  Add Star  もっと読む « Japan Container Days V18.04に行ってきま… 約6年勤めた某大規模SIerを退職しました » しょぼちむ  id:syobochim id:syobochim 所属組織は一切関係なし！ 完全に個人のブログです  読者になる 176 スポンサーリンク    検索  記事を検索 最新記事 2018-06-01 Java Day Tokyo 2018 の参加レポと、Night Sessionで司会をしました！ #JavaDayTokyo  はてなブックマーク - Java Day Tokyo 2018 の参加レポと、Night Sessionで司会をしました！  #JavaDayTokyo 2018-05-26 IntelliJ IDEAでMacBook Proのtouch barが使えるようになって最高 #intellij  はてなブックマーク - IntelliJ IDEAでMacBook Proのtouch barが使えるようになって最高 #intellij 2018-04-21 API Meetup Tokyo #25『AIの民主化を推進する日本のAPI提供者』に行ってきました！  はてなブックマーク - API Meetup Tokyo #25『AIの民主化を推進する日本のAPI提供者』に行ってきました！ 2018-04-20 Japan Container Days V18.04に行ってきました！ はてなブックマーク - Japan Container Days V18.04に行ってきました！ 2018-04-16 MacBook Pro touch barでIntelliJ IDEAを使う私が本当に求めていたプラグイン #intellij  はてなブックマーク - MacBook Pro touch barでIntelliJ IDEAを使う私が本当に求めていたプラグイン #intellij はてブ順 2015-09-03 これが大規模SIerな弊社のデファクトスタンダードな開発スタイルだ！！  はてなブックマーク - これが大規模SIerな弊社のデファクトスタンダードな開発スタイルだ！！ 2016-09-04 アーキ部：テーブル設計をやってみよう！ はてなブックマーク - アーキ部：テーブル設計をやってみよう！ 2016-09-21 アーキ部：自分のエンジニアスキルを客観的にどうやって知るか  はてなブックマーク - アーキ部：自分のエンジニアスキルを客観的にどうやって知るか 2015-07-26 受託開発でGitとmavenを使って開発をしている はてなブックマーク - 受託開発でGitとmavenを使って開発をしている 2018-02-13 約6年勤めた某大規模SIerを退職しました はてなブックマーク - 約6年勤めた某大規模SIerを退職しました 注目記事 2013-11-30 Javaで配列を出力するときはfor-each文(拡張for文)が見た感じわかりやすい！だけどJDK5.0以降対応だよ☆  はてなブックマーク -  Javaで配列を出力するときはfor-each文(拡張for文)が見た感じわかりやすい！だけどJDK5.0以降対応だよ☆ 2015-09-03 これが大規模SIerな弊社のデファクトスタンダードな開発スタイルだ！！  はてなブックマーク - これが大規模SIerな弊社のデファクトスタンダードな開発スタイルだ！！ 2017-10-10 GETのクエリパラメータの値をオブジェクト変換してvalidationをかけるときのやりかた（spring-boot）  はてなブックマーク - GETのクエリパラメータの値をオブジェクト変換してvalidationをかけるときのやりかた（spring-boot） 2017-08-01 アジャイルレトロスペクティブズを読んで『ふりかえり』のやり方をKPTから変えてみた  はてなブックマーク - アジャイルレトロスペクティブズを読んで『ふりかえり』のやり方をKPTから変えてみた 月別アーカイブ ▼ 2018 (6) 2018 / 6 (1) 2018 / 5 (1) 2018 / 4 (3) 2018 / 2 (1) ▶ 2017 (11) ▶ 2016 (11) ▶ 2015 (9) ▶ 2014 (18) ▶ 2013 (31) カテゴリー&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SCSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -320,16 +383,52 @@
       <workItem from="1542430828715" duration="720000" />
       <workItem from="1542968762735" duration="6537000" />
       <workItem from="1543105317941" duration="6395000" />
+      <workItem from="1543153735802" duration="4776000" />
+      <workItem from="1543333606046" duration="1825000" />
+      <workItem from="1543422079925" duration="6000" />
+      <workItem from="1543580334794" duration="178000" />
+      <workItem from="1543580618942" duration="338000" />
+      <workItem from="1543580972747" duration="380000" />
+      <workItem from="1543581367427" duration="99000" />
+      <workItem from="1544098502701" duration="259000" />
+      <workItem from="1544541771117" duration="13091000" />
+      <workItem from="1544715284546" duration="3762000" />
+      <workItem from="1544930602492" duration="40000" />
+      <workItem from="1545233758419" duration="2870000" />
+      <workItem from="1545314382549" duration="5551000" />
+      <workItem from="1545402369602" duration="4164000" />
+      <workItem from="1545918909337" duration="2245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19628000" />
+    <option name="totallyTimeSpent" value="59212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2789988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1941392" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32847425" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4969475" visible="true" weight="0.32555878" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50305253" side_tool="true" weight="0.2741433" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.15262516" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2851038" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -348,27 +447,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2759463" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32902297" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4969475" visible="true" weight="0.27477017" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50305253" side_tool="true" weight="0.27477017" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,27 +456,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ruby/algorithm/all_algorithm.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby/cherry/change_language_name.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby/cherry/send_message.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ruby/cherry/return_status_message.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -410,13 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby/cherry/leave_message.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -488,24 +538,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/lib/minitest/hell.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/lib/minitest/test.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rubygems/core_ext/kernel_require.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
@@ -544,9 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edit.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ruby/cherry/edit_file.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -556,8 +589,200 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ruby/cherry/block.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="522">
+          <caret line="151" lean-forward="true" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/leave_message.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/lib/convert_length.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/algorithm/file.docker" />
+    <entry file="file://$PROJECT_DIR$/ruby/somecode/self.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/somecode/erro.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/test/convert_length_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/hash.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/regular.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/lib/convert_hash_syntax.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.11.3/lib/minitest/hell.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rubygems/core_ext/kernel_require.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/make_class.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2121">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/test/gate_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/lib/gate.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/lib/ticket.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/file.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="76" column="2" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/spear.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="89" column="19" lean-forward="true" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/teisuu.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/test/convert_hash_syntax_text.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/frozen.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/lib/deep_freezable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/lib/team.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/test/deep_freezable_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/lib/bank.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="82" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/self_module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/math.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/cherry/status_module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>

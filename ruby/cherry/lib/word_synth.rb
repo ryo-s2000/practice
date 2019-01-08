@@ -4,7 +4,7 @@ class WordSynth
   end
 
   def add_effect(effect)
-    @effects = effect
+    @effects << effect
   end
 
   def play(original_words)

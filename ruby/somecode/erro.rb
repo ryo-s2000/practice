@@ -3,7 +3,7 @@ begin
   5 + nil
 # 例外オブジェクトを変数 error に代入
 rescue => error
-  # 変数 error を配列で表示
+  # 変数 error を配列で表示する
   p error.message
   p error.backtrace
 end
